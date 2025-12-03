@@ -1,0 +1,646 @@
+year,country,isocode,region,subregion,pib_per_capita,indice_gini,tasa_desempleo_joven,tasa_homicidio
+2020,Afghanistan,AFG,Asia,Southern Asia,2561.98176058622,NA,16.053,6.578109
+2015,Afghanistan,AFG,Asia,Southern Asia,2284.07584789349,NA,12.55,9.952186
+2010,Afghanistan,AFG,Asia,Southern Asia,1765.53802830615,NA,9.99,3.4754522
+2020,Albania,ALB,Europe,Southern Europe,14512.0376833706,29.4,28.117,2.1239898
+2015,Albania,ALB,Europe,Southern Europe,11747.318031542,32.8,39.628,2.2079382
+2010,Albania,ALB,Europe,Southern Europe,9755.92875964596,NA,30.867,4.063206
+2020,Algeria,DZA,Africa,Northern Africa,12676.5130564294,NA,35.748,1.4849432
+2015,Algeria,DZA,Africa,Northern Africa,13807.3515841478,NA,30.376,1.3643339
+2010,Algeria,DZA,Africa,Northern Africa,14201.3659906969,NA,22.161,0.7018856
+2020,American Samoa,ASM,Oceania,Polynesia,NA,NA,NA,NA
+2015,American Samoa,ASM,Oceania,Polynesia,NA,NA,NA,7.564583
+2010,American Samoa,ASM,Oceania,Polynesia,NA,NA,NA,9.053297
+2020,Andorra,AND,Europe,Southern Europe,52095.8414004627,NA,NA,2.5846472
+2015,Andorra,AND,Europe,Southern Europe,50733.2390011704,NA,NA,0
+2010,Andorra,AND,Europe,Southern Europe,43853.1712385354,NA,NA,0
+2020,Angola,AGO,Africa,Sub-Saharan Africa,6450.74994625154,NA,33.067,NA
+2015,Angola,AGO,Africa,Sub-Saharan Africa,7119.72644274401,NA,35.151,4.453473
+2010,Angola,AGO,Africa,Sub-Saharan Africa,6607.0221970301,NA,38.752,NA
+2020,Antigua and Barbuda,ATG,Americas,Latin America and the Caribbean,22370.0918693813,NA,NA,9.799011
+2015,Antigua and Barbuda,ATG,Americas,Latin America and the Caribbean,20985.4388292177,NA,NA,NA
+2010,Antigua and Barbuda,ATG,Americas,Latin America and the Caribbean,24071.0297956482,NA,NA,7.0323076
+2020,Argentina,ARG,Americas,Latin America and the Caribbean,22393.3479575353,42.7,30.428,5.3527217
+2015,Argentina,ARG,Americas,Latin America and the Caribbean,19899.1499275245,NA,20.27,6.5252876
+2010,Argentina,ARG,Americas,Latin America and the Caribbean,17847.6110373178,43.7,19.381,5.7739778
+2020,Armenia,ARM,Asia,Western Asia,14706.3173043422,25.1,32.205,2.5943546
+2015,Armenia,ARM,Asia,Western Asia,9756.84084836026,32.4,31.871,2.567458
+2010,Armenia,ARM,Asia,Western Asia,7095.21267979009,30,37.647,1.9105599
+2020,Aruba,ABW,Americas,Latin America and the Caribbean,28976.4635497124,NA,NA,NA
+2015,Aruba,ABW,Americas,Latin America and the Caribbean,35972.8664446515,NA,NA,NA
+2010,Aruba,ABW,Americas,Latin America and the Caribbean,33729.5119105028,NA,NA,3.995465
+2020,Australia,AUS,Oceania,Australia and New Zealand,53984.1246979075,33.8,14.219,0.8584594
+2015,Australia,AUS,Oceania,Australia and New Zealand,46263.731388772,NA,13.11,0.98546845
+2010,Australia,AUS,Oceania,Australia and New Zealand,39372.8511038542,34.7,11.548,1.043286
+2020,Austria,AUT,Europe,Western Europe,58523.0337816246,29.8,10.325,0.72858477
+2015,Austria,AUT,Europe,Western Europe,49562.5939257986,30.5,10.91,0.50902134
+2010,Austria,AUT,Europe,Western Europe,41740.1149241758,30.3,9.673,0.7292209
+2020,Azerbaijan,AZE,Asia,Western Asia,15163.5703327282,NA,15.129,2.1509116
+2015,Azerbaijan,AZE,Asia,Western Asia,15075.272634791,NA,13.363,2.1634703
+2010,Azerbaijan,AZE,Asia,Western Asia,14930.4100337944,NA,14.64,2.2521412
+2020,"Bahamas, The",BHS,Americas,Latin America and the Caribbean,27204.625909518,NA,24.284,NA
+2015,"Bahamas, The",BHS,Americas,Latin America and the Caribbean,32137.5784729905,NA,25.109,NA
+2010,"Bahamas, The",BHS,Americas,Latin America and the Caribbean,29624.9512261144,NA,26.766,NA
+2020,Bahrain,BHR,Asia,Western Asia,53436.0316999712,NA,6.365,0
+2015,Bahrain,BHR,Asia,Western Asia,48034.2468880503,NA,5.427,0.21903406
+2010,Bahrain,BHR,Asia,Western Asia,49254.5770084238,NA,4.953,0.1648473
+2020,Bangladesh,BGD,Asia,Southern Asia,6640.58437331062,NA,13.29,NA
+2015,Bangladesh,BGD,Asia,Southern Asia,4212.23578089428,NA,10.56,2.5316348
+2010,Bangladesh,BGD,Asia,Southern Asia,2833.69544368864,32.1,6.289,2.6202023
+2020,Barbados,BRB,Americas,Latin America and the Caribbean,15824.49106614,NA,29.974,14.554594
+2015,Barbados,BRB,Americas,Latin America and the Caribbean,17804.7490038367,NA,28.856,11.111509
+2010,Barbados,BRB,Americas,Latin America and the Caribbean,18977.5426798427,NA,25.369,11.262754
+2020,Belarus,BLR,Europe,Eastern Europe,24872.3066744528,24.4,12.045,NA
+2015,Belarus,BLR,Europe,Eastern Europe,18133.5313085883,25.6,10.78,3.436175
+2010,Belarus,BLR,Europe,Eastern Europe,15339.0999026403,28.6,10.918,4.225166
+2020,Belgium,BEL,Europe,Western Europe,56120.0958420466,26,15.326,NA
+2015,Belgium,BEL,Europe,Western Europe,46084.2424551717,27.7,22.125,NA
+2010,Belgium,BEL,Europe,Western Europe,39844.4054386496,28.4,22.391,NA
+2020,Belize,BLZ,Americas,Latin America and the Caribbean,9618.01643529994,NA,23.566,26.099539
+2015,Belize,BLZ,Americas,Latin America and the Caribbean,9538.19054142614,NA,16.48,33.39573
+2010,Belize,BLZ,Americas,Latin America and the Caribbean,9734.89239729241,NA,16.925,40.28166
+2020,Benin,BEN,Africa,Sub-Saharan Africa,3244.58772756805,NA,2.973,NA
+2015,Benin,BEN,Africa,Sub-Saharan Africa,2725.33724817144,47.6,3.75,NA
+2010,Benin,BEN,Africa,Sub-Saharan Africa,2220.32854611489,NA,2.138,NA
+2020,Bermuda,BMU,Americas,Northern America,85146.4006275696,NA,NA,10.872604
+2015,Bermuda,BMU,Americas,Northern America,75943.4642970922,NA,NA,6.3028355
+2010,Bermuda,BMU,Americas,Northern America,72188.6928304585,NA,NA,10.984613
+2020,Bhutan,BTN,Asia,Southern Asia,12475.048003428,NA,21.989,2.4675133
+2015,Bhutan,BTN,Asia,Southern Asia,10213.8139608922,NA,10.115,1.6202685
+2010,Bhutan,BTN,Asia,Southern Asia,7245.77263522404,NA,8.784,2.2803977
+2020,Bolivia,BOL,Americas,Latin America and the Caribbean,8293.99121208365,43.6,15.231,3.6221154
+2015,Bolivia,BOL,Americas,Latin America and the Caribbean,7152.04465025692,46.7,6.852,4.9297733
+2010,Bolivia,BOL,Americas,Latin America and the Caribbean,5100.52757238083,NA,5.283,NA
+2020,Bosnia and Herzegovina,BIH,Europe,Southern Europe,16369.9341410765,NA,37.676,1.3032873
+2015,Bosnia and Herzegovina,BIH,Europe,Southern Europe,11848.6326084163,NA,64.762,1.6199899
+2010,Bosnia and Herzegovina,BIH,Europe,Southern Europe,9086.74853515985,NA,59,1.4692488
+2020,Botswana,BWA,Africa,Sub-Saharan Africa,15292.2624704777,NA,40.389,9.34108
+2015,Botswana,BWA,Africa,Sub-Saharan Africa,14143.6940733728,54.9,34.766,NA
+2010,Botswana,BWA,Africa,Sub-Saharan Africa,12490.8923158262,NA,35.093,14.903273
+2020,Brazil,BRA,Americas,Latin America and the Caribbean,16101.6183063466,48.9,30.267,22.870605
+2015,Brazil,BRA,Americas,Latin America and the Caribbean,14821.4383174534,51.9,19.493,28.850302
+2010,Brazil,BRA,Americas,Latin America and the Caribbean,14451.7158389637,NA,18.242,26.994568
+2020,British Virgin Islands,VGB,Americas,Latin America and the Caribbean,NA,NA,NA,NA
+2015,British Virgin Islands,VGB,Americas,Latin America and the Caribbean,NA,NA,NA,NA
+2010,British Virgin Islands,VGB,Americas,Latin America and the Caribbean,NA,NA,NA,NA
+2020,Brunei Darussalam,BRN,Asia,South-eastern Asia,69787.9633393605,NA,26.844,NA
+2015,Brunei Darussalam,BRN,Asia,South-eastern Asia,62707.8263582428,NA,25.939,NA
+2010,Brunei Darussalam,BRN,Asia,South-eastern Asia,79542.6778763874,NA,21.596,NA
+2020,Bulgaria,BGR,Europe,Eastern Europe,27376.7783677501,40.5,14.214,0.9951466
+2015,Bulgaria,BGR,Europe,Eastern Europe,18901.1716985864,38.6,21.653,1.7554817
+2010,Bulgaria,BGR,Europe,Eastern Europe,14955.9157788275,35.7,21.95,1.9898896
+2020,Burkina Faso,BFA,Africa,Sub-Saharan Africa,2380.72282781802,NA,8.905,NA
+2015,Burkina Faso,BFA,Africa,Sub-Saharan Africa,1691.57935387408,NA,7.335,NA
+2010,Burkina Faso,BFA,Africa,Sub-Saharan Africa,1449.42216382921,NA,5.965,NA
+2020,Burundi,BDI,Africa,Sub-Saharan Africa,786.515830674648,37.5,1.69,NA
+2015,Burundi,BDI,Africa,Sub-Saharan Africa,797.426234406883,NA,2.671,4.1728597
+2010,Burundi,BDI,Africa,Sub-Saharan Africa,613.649848956193,NA,2.301,NA
+2020,Cabo Verde,CPV,Africa,Sub-Saharan Africa,6852.57669930355,NA,34.625,NA
+2015,Cabo Verde,CPV,Africa,Sub-Saharan Africa,6773.48679969386,42.4,28.54,NA
+2010,Cabo Verde,CPV,Africa,Sub-Saharan Africa,6038.58525655665,NA,21.329,NA
+2020,Cambodia,KHM,Asia,South-eastern Asia,5942.45380373929,NA,0.474,NA
+2015,Cambodia,KHM,Asia,South-eastern Asia,4433.64393500572,NA,0.744,NA
+2010,Cambodia,KHM,Asia,South-eastern Asia,2988.50401439457,NA,0.964,2.2826443
+2020,Cameroon,CMR,Africa,Sub-Saharan Africa,4365.44704128392,NA,7.384,4.5859385
+2015,Cameroon,CMR,Africa,Sub-Saharan Africa,3497.66067563959,NA,6.233,3.782385
+2010,Cameroon,CMR,Africa,Sub-Saharan Africa,2913.94292755606,NA,6.322,5.0792994
+2020,Canada,CAN,Americas,Northern America,48590.6832121939,29.9,20.125,2.004092
+2015,Canada,CAN,Americas,Northern America,44669.4513631838,33.7,12.759,1.6990045
+2010,Canada,CAN,Americas,Northern America,40098.2537191139,33.6,14.575,1.6288027
+2020,Cayman Islands,CYM,Americas,Latin America and the Caribbean,66118.6545207023,NA,NA,4.367798
+2015,Cayman Islands,CYM,Americas,Latin America and the Caribbean,64009.3167970419,NA,NA,NA
+2010,Cayman Islands,CYM,Americas,Latin America and the Caribbean,66325.4574311641,NA,NA,16.63632
+2020,Central African Republic,CAF,Africa,Sub-Saharan Africa,1066.29005423151,NA,10.434,NA
+2015,Central African Republic,CAF,Africa,Sub-Saharan Africa,768.870887999174,NA,9.402,NA
+2010,Central African Republic,CAF,Africa,Sub-Saharan Africa,936.485497371468,NA,9.815,NA
+2020,Chad,TCD,Africa,Sub-Saharan Africa,2185.99034173537,NA,1.9,NA
+2015,Chad,TCD,Africa,Sub-Saharan Africa,2377.51137185751,NA,1.403,NA
+2010,Chad,TCD,Africa,Sub-Saharan Africa,2318.39844293894,NA,1.286,NA
+2020,Chile,CHL,Americas,Latin America and the Caribbean,25350.8635082972,47,24.377,5.756139
+2015,Chile,CHL,Americas,Latin America and the Caribbean,22457.8800614565,45.3,15.282,2.321635
+2010,Chile,CHL,Americas,Latin America and the Caribbean,17917.8951217097,NA,18.634,3.1487422
+2020,China,CHN,Asia,Eastern Asia,18267.4783455827,37.1,12.678,0.5018561
+2015,China,CHN,Asia,Eastern Asia,13463.3331511105,38.6,10.697,0.6589624
+2010,China,CHN,Asia,Eastern Asia,9411.13821903204,43.7,9.823,0.9921857
+2020,Colombia,COL,Americas,Latin America and the Caribbean,15519.2101694656,53.5,27.248,22.642704
+2015,Colombia,COL,Americas,Latin America and the Caribbean,13332.0555048211,51,17.316,27.215279
+2010,Colombia,COL,Americas,Latin America and the Caribbean,10841.1279801312,54.6,22.572,34.524174
+2020,Comoros,COM,Africa,Sub-Saharan Africa,3261.59496762747,NA,10.469,NA
+2015,Comoros,COM,Africa,Sub-Saharan Africa,2949.47342240993,NA,9.517,NA
+2010,Comoros,COM,Africa,Sub-Saharan Africa,2333.32778329942,NA,9.556,NA
+2020,"Congo, Dem. Rep.",COD,Africa,Sub-Saharan Africa,1136.00839556367,44.7,9.617,NA
+2015,"Congo, Dem. Rep.",COD,Africa,Sub-Saharan Africa,859.143482737815,NA,8.389,NA
+2010,"Congo, Dem. Rep.",COD,Africa,Sub-Saharan Africa,597.088740789196,NA,7.494,NA
+2020,"Congo, Rep.",COG,Africa,Sub-Saharan Africa,4770.96449758365,NA,46.326,NA
+2015,"Congo, Rep.",COG,Africa,Sub-Saharan Africa,4715.13431581624,NA,41.133,NA
+2010,"Congo, Rep.",COG,Africa,Sub-Saharan Africa,5125.06991343643,NA,39.978,NA
+2020,Costa Rica,CRI,Americas,Latin America and the Caribbean,22099.867812715,49.2,40.108,11.322284
+2015,Costa Rica,CRI,Americas,Latin America and the Caribbean,17525.1404625252,48.4,22.363,11.560721
+2010,Costa Rica,CRI,Americas,Latin America and the Caribbean,12927.5645930035,48,17.378,11.567261
+2020,Cote d'Ivoire,CIV,Africa,Sub-Saharan Africa,5543.85096318939,NA,4.698,NA
+2015,Cote d'Ivoire,CIV,Africa,Sub-Saharan Africa,4403.64296618998,41.5,3.382,NA
+2010,Cote d'Ivoire,CIV,Africa,Sub-Saharan Africa,3360.54408826055,NA,9.074,NA
+2020,Croatia,HRV,Europe,Southern Europe,31595.9559202678,29.5,21.222,1.0116445
+2015,Croatia,HRV,Europe,Southern Europe,23758.9515172107,31.1,42.455,0.8843786
+2010,Croatia,HRV,Europe,Southern Europe,20143.7495528981,32.4,32.355,1.4414765
+2020,Cuba,CUB,Americas,Latin America and the Caribbean,NA,NA,5.204,NA
+2015,Cuba,CUB,Americas,Latin America and the Caribbean,NA,NA,5.97,5.4899907
+2010,Cuba,CUB,Americas,Latin America and the Caribbean,NA,NA,6.026,4.4700513
+2020,Curacao,CUW,Americas,Latin America and the Caribbean,21797.0190062969,NA,NA,NA
+2015,Curacao,CUW,Americas,Latin America and the Caribbean,24037.6486252583,NA,NA,NA
+2010,Curacao,CUW,Americas,Latin America and the Caribbean,25956.8107585616,NA,NA,NA
+2020,Cyprus,CYP,Asia,Western Asia,43354,31.7,18.491,1.1518548
+2015,Cyprus,CYP,Asia,Western Asia,31930.763671875,34,32.539,1.2300107
+2010,Cyprus,CYP,Asia,Western Asia,33505.8828125,31.5,15.852,0.70933527
+2020,Czechia,CZE,Europe,Eastern Europe,44839.4822099455,26.2,7.936,0.72984886
+2015,Czechia,CZE,Europe,Eastern Europe,34102.176988058,25.9,12.582,0.8361509
+2010,Czechia,CZE,Europe,Eastern Europe,28156.9854724601,26.6,18.356,0.98432386
+2020,Denmark,DNK,Europe,Northern Europe,62682.2899474389,27.5,11.588,0.8231116
+2015,Denmark,DNK,Europe,Northern Europe,48910.3324371901,28.2,12.152,1.0908386
+2010,Denmark,DNK,Europe,Northern Europe,43042.394637021,27.2,15.554,0.7570483
+2020,Djibouti,DJI,Africa,Sub-Saharan Africa,5527.00185229888,NA,82.409,NA
+2015,Djibouti,DJI,Africa,Sub-Saharan Africa,4263.96288890455,NA,72.503,NA
+2010,Djibouti,DJI,Africa,Sub-Saharan Africa,NA,NA,70.018,NA
+2020,Dominica,DMA,Americas,Latin America and the Caribbean,14243.7623123898,NA,NA,22.198215
+2015,Dominica,DMA,Americas,Latin America and the Caribbean,12092.7315992676,NA,NA,12.782275
+2010,Dominica,DMA,Americas,Latin America and the Caribbean,10924.0953245506,NA,NA,21.783804
+2020,Dominican Republic,DOM,Americas,Latin America and the Caribbean,18998.3069667315,39.6,14.766,8.729776
+2015,Dominican Republic,DOM,Americas,Latin America and the Caribbean,14804.0974069659,45.2,16.426,NA
+2010,Dominican Republic,DOM,Americas,Latin America and the Caribbean,11245.6811892201,47.3,10.81,25.193033
+2020,Ecuador,ECU,Americas,Latin America and the Caribbean,11526.8013009278,47.3,11.079,7.8194175
+2015,Ecuador,ECU,Americas,Latin America and the Caribbean,10877.7507461388,46,8.824,6.4550934
+2010,Ecuador,ECU,Americas,Latin America and the Caribbean,8968.94040838943,48.8,9.286,17.404345
+2020,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,15231.865417764,NA,18.463,NA
+2015,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,10903.3368231185,31.8,34.16,NA
+2010,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,8837.76450033703,30.2,24.583,NA
+2020,El Salvador,SLV,Americas,Latin America and the Caribbean,9392.68913817943,NA,11.069,21.508745
+2015,El Salvador,SLV,Americas,Latin America and the Caribbean,7933.73697858999,40.6,8.661,107.63823
+2010,El Salvador,SLV,Americas,Latin America and the Caribbean,6247.91452716829,43.5,10.156,65.70264
+2020,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,13677.110587517,NA,17.665,NA
+2015,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,19478.7010123338,NA,15.692,NA
+2010,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,26167.8268525276,NA,15.958,NA
+2020,Eritrea,ERI,Africa,Sub-Saharan Africa,NA,NA,10.732,NA
+2015,Eritrea,ERI,Africa,Sub-Saharan Africa,NA,NA,9.758,NA
+2010,Eritrea,ERI,Africa,Sub-Saharan Africa,1599.19106106457,NA,10.228,NA
+2020,Estonia,EST,Europe,Northern Europe,40672.1340402132,30.7,18.417,3.1586797
+2015,Estonia,EST,Europe,Northern Europe,29720.5911161676,32.7,14.342,3.423157
+2010,Estonia,EST,Europe,Northern Europe,21616.7122418461,32,32.938,5.257432
+2020,Eswatini,SWZ,Africa,Sub-Saharan Africa,9297.5881020884,NA,58.728,NA
+2015,Eswatini,SWZ,Africa,Sub-Saharan Africa,8393.35393669388,NA,48.094,9.800383
+2010,Eswatini,SWZ,Africa,Sub-Saharan Africa,7230.86004359533,NA,54.314,18.710926
+2020,Ethiopia,ETH,Africa,Sub-Saharan Africa,2406.78938478669,NA,6.359,NA
+2015,Ethiopia,ETH,Africa,Sub-Saharan Africa,1632.61818006837,35,3.811,NA
+2010,Ethiopia,ETH,Africa,Sub-Saharan Africa,995.65397860146,33.2,3.44,NA
+2020,Faroe Islands,FRO,Europe,Northern Europe,61648.5056152701,NA,NA,NA
+2015,Faroe Islands,FRO,Europe,Northern Europe,53682.1715306081,NA,NA,NA
+2010,Faroe Islands,FRO,Europe,Northern Europe,39766.5911029215,NA,NA,NA
+2020,Fiji,FJI,Oceania,Melanesia,11235.2760396525,NA,17.142,2.950939
+2015,Fiji,FJI,Oceania,Melanesia,11733.7429205049,NA,14.638,NA
+2010,Fiji,FJI,Oceania,Melanesia,7476.10752715045,NA,13.059,2.1967907
+2020,Finland,FIN,Europe,Northern Europe,53296.5792798852,27.1,21.193,1.7541918
+2015,Finland,FIN,Europe,Northern Europe,42269.2212218196,27.1,22.304,1.4964275
+2010,Finland,FIN,Europe,Northern Europe,38950.5525874191,27.7,21.288,2.2001173
+2020,France,FRA,Europe,Western Europe,49481.8044309655,30.7,20.398,1.0499917
+2015,France,FRA,Europe,Western Europe,40916.10535718,32.7,25.262,1.5589297
+2010,France,FRA,Europe,Western Europe,35911.5438581409,33.7,23.592,1.2551768
+2020,French Polynesia,PYF,Oceania,Polynesia,NA,NA,41.36,NA
+2015,French Polynesia,PYF,Oceania,Polynesia,NA,NA,35.564,NA
+2010,French Polynesia,PYF,Oceania,Polynesia,NA,NA,35.127,NA
+2020,Gabon,GAB,Africa,Sub-Saharan Africa,14477.1308291818,NA,39.777,NA
+2015,Gabon,GAB,Africa,Sub-Saharan Africa,14306.4340768252,NA,35.907,NA
+2010,Gabon,GAB,Africa,Sub-Saharan Africa,14014.6905491122,NA,35.935,NA
+2020,"Gambia, The",GMB,Africa,Sub-Saharan Africa,2530.80414937307,38.8,10.283,NA
+2015,"Gambia, The",GMB,Africa,Sub-Saharan Africa,1990.31625750973,35.9,11.079,NA
+2010,"Gambia, The",GMB,Africa,Sub-Saharan Africa,2266.82898238442,43.6,14.218,NA
+2020,Georgia,GEO,Asia,Western Asia,16791.2598654465,34.5,30.852,NA
+2015,Georgia,GEO,Asia,Western Asia,12269.6528932768,36.5,36.483,NA
+2010,Georgia,GEO,Asia,Western Asia,7711.80683889487,39.5,41.26,4.7998877
+2020,Germany,DEU,Europe,Western Europe,58685.872699771,32.4,7.862,0.9350856
+2015,Germany,DEU,Europe,Western Europe,48558.4432970969,31.7,7.328,0.8309215
+2010,Germany,DEU,Europe,Western Europe,39730.4897885271,30.2,10.416,0.98106015
+2020,Ghana,GHA,Africa,Sub-Saharan Africa,6047.30111673554,NA,6.399,1.7404771
+2015,Ghana,GHA,Africa,Sub-Saharan Africa,5191.37053389659,NA,14.238,1.829519
+2010,Ghana,GHA,Africa,Sub-Saharan Africa,3855.46891716757,NA,11.103,1.6565263
+2020,Gibraltar,GIB,Europe,Southern Europe,NA,NA,NA,NA
+2015,Gibraltar,GIB,Europe,Southern Europe,NA,NA,NA,NA
+2010,Gibraltar,GIB,Europe,Southern Europe,NA,NA,NA,3.2002048
+2020,Greece,GRC,Europe,Southern Europe,29533.087740299,33.6,33.74,0.72901493
+2015,Greece,GRC,Europe,Southern Europe,26614.8483754225,36,49.731,0.8594477
+2010,Greece,GRC,Europe,Southern Europe,27841.8591363591,34.1,33.005,1.5820694
+2020,Greenland,GRL,Americas,Northern America,64999.4435683064,NA,NA,NA
+2015,Greenland,GRL,Americas,Northern America,55815.6502883612,NA,NA,7.1401796
+2010,Greenland,GRL,Americas,Northern America,50190.8817880429,NA,NA,19.429651
+2020,Grenada,GRD,Americas,Latin America and the Caribbean,14361.1267154452,NA,NA,12.033591
+2015,Grenada,GRD,Americas,Latin America and the Caribbean,13214.4096644941,NA,NA,5.2321324
+2010,Grenada,GRD,Americas,Latin America and the Caribbean,10344.3839189192,NA,NA,8.961698
+2020,Guam,GUM,Oceania,Micronesia,NA,NA,15.446,NA
+2015,Guam,GUM,Oceania,Micronesia,NA,NA,16.393,NA
+2010,Guam,GUM,Oceania,Micronesia,NA,NA,19.492,1.8015692
+2020,Guatemala,GTM,Americas,Latin America and the Caribbean,10947.3705618969,NA,5.166,18.188286
+2015,Guatemala,GTM,Americas,Latin America and the Caribbean,8934.00235466215,NA,5.581,NA
+2010,Guatemala,GTM,Americas,Latin America and the Caribbean,6510.09980949963,NA,5.296,41.10313
+2020,Guinea,GIN,Africa,Sub-Saharan Africa,3331.85663003801,NA,8.461,NA
+2015,Guinea,GIN,Africa,Sub-Saharan Africa,1929.68091332187,NA,6.906,NA
+2010,Guinea,GIN,Africa,Sub-Saharan Africa,1621.69161141242,NA,6.502,NA
+2020,Guinea-Bissau,GNB,Africa,Sub-Saharan Africa,2310.37430731557,NA,2.764,NA
+2015,Guinea-Bissau,GNB,Africa,Sub-Saharan Africa,1729.94260310123,NA,3.875,NA
+2010,Guinea-Bissau,GNB,Africa,Sub-Saharan Africa,1369.68917066121,50.6,3.843,NA
+2020,Guyana,GUY,Americas,Latin America and the Caribbean,16819.4228714695,NA,30.857,19.44317
+2015,Guyana,GUY,Americas,Latin America and the Caribbean,11408.473901349,NA,24.227,19.636759
+2010,Guyana,GUY,Americas,Latin America and the Caribbean,9336.59830212594,NA,22.558,18.68519
+2020,Haiti,HTI,Americas,Latin America and the Caribbean,3103.18066312462,NA,39.687,11.384003
+2015,Haiti,HTI,Americas,Latin America and the Caribbean,3025.83461728258,NA,34.082,10.177472
+2010,Haiti,HTI,Americas,Latin America and the Caribbean,2694.91104137315,NA,36.948,6.905842
+2020,Honduras,HND,Americas,Latin America and the Caribbean,5384.69831983038,NA,17.087,35.70285
+2015,Honduras,HND,Americas,Latin America and the Caribbean,4845.59566521125,49.2,11.042,55.73054
+2010,Honduras,HND,Americas,Latin America and the Caribbean,3757.5464206245,53.1,7.506,74.54089
+2020,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,58187.4764072535,NA,15.533,NA
+2015,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,56043.042695697,NA,10.424,NA
+2010,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,49197.6589927693,NA,12.097,NA
+2020,Hungary,HUN,Europe,Eastern Europe,35583.5855675637,NA,12.757,0.82055855
+2015,Hungary,HUN,Europe,Eastern Europe,26944.9597666868,30.4,17.272,2.246115
+2010,Hungary,HUN,Europe,Eastern Europe,21693.4020663431,29.4,26.393,1.3828863
+2020,Iceland,ISL,Europe,Northern Europe,55796.7454667632,NA,9.871,1.3638322
+2015,Iceland,ISL,Europe,Northern Europe,49214.2648614584,26.8,8.573,0.9064772
+2010,Iceland,ISL,Europe,Northern Europe,39768.4169599139,26.2,15.851,0.6286185
+2020,India,IND,Asia,Southern Asia,6966.27542785911,NA,24.666,2.9352973
+2015,India,IND,Asia,Southern Asia,5425.03599091046,NA,24.959,3.3412788
+2010,India,IND,Asia,Southern Asia,4206.45986002117,NA,23.348,3.7362838
+2020,Indonesia,IDN,Asia,South-eastern Asia,11729.3674458448,35.3,14.773,NA
+2015,Indonesia,IDN,Asia,South-eastern Asia,10027.5372996025,38.2,17.224,NA
+2010,Indonesia,IDN,Asia,South-eastern Asia,8353.45684733249,34.6,17.691,NA
+2020,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,14110.3191444298,35.8,23.712,NA
+2015,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,13689.7646428107,35.3,25.962,NA
+2010,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,17865.9413811134,NA,28.7,NA
+2020,Iraq,IRQ,Asia,Western Asia,10573.9304750715,NA,34.823,NA
+2015,Iraq,IRQ,Asia,Western Asia,9334.46604866315,NA,21.354,NA
+2010,Iraq,IRQ,Asia,Western Asia,12186.1929623841,NA,16.578,8.66796
+2020,Ireland,IRL,Europe,Northern Europe,97799.9225748607,29.2,15.263,0.6221643
+2015,Ireland,IRL,Europe,Northern Europe,71607.4568294649,31.8,20.235,0.5741643
+2010,Ireland,IRL,Europe,Northern Europe,43216.9847302406,32.3,28.157,1.1844496
+2020,Isle of Man,IMN,Europe,Northern Europe,NA,NA,NA,NA
+2015,Isle of Man,IMN,Europe,Northern Europe,NA,NA,NA,1.1962724
+2010,Isle of Man,IMN,Europe,Northern Europe,NA,NA,NA,NA
+2020,Israel,ISR,Asia,Western Asia,40955.2856179152,37.8,7.645,1.6703832
+2015,Israel,ISR,Asia,Western Asia,35868.9736376014,39.7,9.202,1.4901448
+2010,Israel,ISR,Asia,Western Asia,29455.8218132531,42.6,14.22,2.044506
+2020,Italy,ITA,Europe,Southern Europe,44435.6434393527,35.2,29.39,0.4756916
+2015,Italy,ITA,Europe,Southern Europe,37394.4535005423,35.4,40.316,0.77424276
+2010,Italy,ITA,Europe,Southern Europe,34977.9942339965,34.7,27.91,0.87926024
+2020,Jamaica,JAM,Americas,Latin America and the Caribbean,8991.16205633754,NA,20.087,47.090176
+2015,Jamaica,JAM,Americas,Latin America and the Caribbean,8985.5766781795,NA,25.777,43.13953
+2010,Jamaica,JAM,Americas,Latin America and the Caribbean,8080.14850837338,NA,20.451,52.645607
+2020,Japan,JPN,Asia,Eastern Asia,42425.6946789651,32.3,4.679,0.2517724
+2015,Japan,JPN,Asia,Eastern Asia,40906.594569246,30.7,5.471,0.28520724
+2010,Japan,JPN,Asia,Eastern Asia,35335.3735103814,31.5,9.46,0.36275616
+2020,Jordan,JOR,Asia,Western Asia,9579.20081317696,NA,42.458,0.9939967
+2015,Jordan,JOR,Asia,Western Asia,8967.07995837808,NA,30.914,1.7706108
+2010,Jordan,JOR,Asia,Western Asia,9416.64386806071,33.7,30.131,1.7541351
+2020,Kazakhstan,KAZ,Asia,Central Asia,29039.8229624509,28.7,3.769,3.110545
+2015,Kazakhstan,KAZ,Asia,Central Asia,22484.3651382607,26.8,3.754,4.7168326
+2010,Kazakhstan,KAZ,Asia,Central Asia,18641.8061477073,28,5.215,8.237903
+2020,Kenya,KEN,Africa,Sub-Saharan Africa,4792.57315847182,36.2,13.649,3.5601206
+2015,Kenya,KEN,Africa,Sub-Saharan Africa,3678.32614146019,40.8,7.3,4.8015943
+2010,Kenya,KEN,Africa,Sub-Saharan Africa,2634.89271323826,NA,7.053,4.629967
+2020,Kiribati,KIR,Oceania,Micronesia,2710.90622817554,NA,NA,NA
+2015,Kiribati,KIR,Oceania,Micronesia,2310.6029149637,NA,NA,NA
+2010,Kiribati,KIR,Oceania,Micronesia,1724.46710150819,NA,NA,3.6797173
+2020,"Korea, Dem. People's Rep.",PRK,Asia,Eastern Asia,NA,NA,7.418,NA
+2015,"Korea, Dem. People's Rep.",PRK,Asia,Eastern Asia,NA,NA,6.757,NA
+2010,"Korea, Dem. People's Rep.",PRK,Asia,Eastern Asia,NA,NA,6.49,NA
+2020,"Korea, Rep.",KOR,Asia,Eastern Asia,45142.7634505403,32.7,10.143,NA
+2015,"Korea, Rep.",KOR,Asia,Eastern Asia,37907.5003102016,NA,9.899,NA
+2010,"Korea, Rep.",KOR,Asia,Eastern Asia,31736.6284370925,32,8.54,NA
+2020,Kuwait,KWT,Asia,Western Asia,41461.7235103219,NA,19.149,0.24999182
+2015,Kuwait,KWT,Asia,Western Asia,45267.3085910026,NA,16.179,NA
+2010,Kuwait,KWT,Asia,Western Asia,75184.0866636559,NA,8.581,2.0384786
+2020,Kyrgyz Republic,KGZ,Asia,Central Asia,5178.5619670404,29,8.468,NA
+2015,Kyrgyz Republic,KGZ,Asia,Central Asia,4153.3766990372,29,6.448,NA
+2010,Kyrgyz Republic,KGZ,Asia,Central Asia,3075.61554332455,30.1,5.237,NA
+2020,Lao PDR,LAO,Asia,South-eastern Asia,7913.38660650276,NA,4.261,NA
+2015,Lao PDR,LAO,Asia,South-eastern Asia,6086.0673044622,NA,4.524,NA
+2010,Lao PDR,LAO,Asia,South-eastern Asia,3772.26605172404,NA,1.572,NA
+2020,Latvia,LVA,Europe,Northern Europe,32741.4207691987,35.7,14.868,3.6820333
+2015,Latvia,LVA,Europe,Northern Europe,24137.87643586,34.2,16.316,3.3874876
+2010,Latvia,LVA,Europe,Northern Europe,17343.4658666613,35,36.24,NA
+2020,Lebanon,LBN,Asia,Western Asia,16259.7051312281,NA,27.028,2.24467
+2015,Lebanon,LBN,Asia,Western Asia,17045.898285301,NA,20.569,3.5689626
+2010,Lebanon,LBN,Asia,Western Asia,14703.6153215084,NA,16.067,3.2333007
+2020,Lesotho,LSO,Africa,Sub-Saharan Africa,2559.09776834929,NA,28.298,NA
+2015,Lesotho,LSO,Africa,Sub-Saharan Africa,3034.64692924848,NA,24.034,NA
+2010,Lesotho,LSO,Africa,Sub-Saharan Africa,2152.91528289768,NA,23.046,NA
+2020,Liberia,LBR,Africa,Sub-Saharan Africa,1659.52109145991,NA,2.931,NA
+2015,Liberia,LBR,Africa,Sub-Saharan Africa,1340.43279741197,NA,1.923,NA
+2010,Liberia,LBR,Africa,Sub-Saharan Africa,980.1181397741,NA,3.151,3.1782088
+2020,Libya,LBY,Africa,Northern Africa,10954.799045265,NA,53.366,NA
+2015,Libya,LBY,Africa,Northern Africa,17903.2565395803,NA,51.486,NA
+2010,Libya,LBY,Africa,Northern Africa,30234.0918728805,NA,49.499,NA
+2020,Liechtenstein,LIE,Europe,Western Europe,NA,NA,NA,2.5795135
+2015,Liechtenstein,LIE,Europe,Western Europe,NA,NA,NA,0
+2010,Liechtenstein,LIE,Europe,Western Europe,NA,NA,NA,2.7778935
+2020,Lithuania,LTU,Europe,Northern Europe,41262.7276941725,36,19.556,3.6126075
+2015,Lithuania,LTU,Europe,Northern Europe,28853.9978560937,37.4,16.302,5.9192696
+2010,Lithuania,LTU,Europe,Northern Europe,19827.948684184,33.6,35.744,7.069717
+2020,Luxembourg,LUX,Europe,Western Europe,122066.739147202,33.4,23.182,0.47573966
+2015,Luxembourg,LUX,Europe,Western Europe,107888.578352982,32.9,17.5,0.87790763
+2010,Luxembourg,LUX,Europe,Western Europe,90346.0688268008,30.5,13.917,1.9707929
+2020,"Macao SAR, China",MAC,Asia,Eastern Asia,57220.817061871,NA,7.694,NA
+2015,"Macao SAR, China",MAC,Asia,Eastern Asia,108916.86260993,NA,4.339,NA
+2010,"Macao SAR, China",MAC,Asia,Eastern Asia,99831.766339042,NA,5.416,NA
+2020,Madagascar,MDG,Africa,Sub-Saharan Africa,1490.32312837866,NA,5.929,NA
+2015,Madagascar,MDG,Africa,Sub-Saharan Africa,1496.61172412841,NA,3.305,NA
+2010,Madagascar,MDG,Africa,Sub-Saharan Africa,1463.87646786391,42.4,4.791,NA
+2020,Malawi,MWI,Africa,Sub-Saharan Africa,1513.45990803344,NA,7.865,NA
+2015,Malawi,MWI,Africa,Sub-Saharan Africa,1403.08451209235,NA,6.731,NA
+2010,Malawi,MWI,Africa,Sub-Saharan Africa,1457.60568309596,45.5,6.534,3.5072424
+2020,Malaysia,MYS,Asia,South-eastern Asia,27474.7361378236,NA,12.366,0.74654263
+2015,Malaysia,MYS,Asia,South-eastern Asia,24526.3942716012,41.1,10.978,1.5944778
+2010,Malaysia,MYS,Asia,South-eastern Asia,20193.4092945433,NA,11.104,1.8844368
+2020,Maldives,MDV,Asia,Southern Asia,13425.3674459601,NA,16.109,NA
+2015,Maldives,MDV,Asia,Southern Asia,17875.0989419263,NA,16.747,0.93424326
+2010,Maldives,MDV,Asia,Southern Asia,12797.3279369096,NA,23.331,1.6630081
+2020,Mali,MLI,Africa,Sub-Saharan Africa,2723.70094784441,NA,6.733,NA
+2015,Mali,MLI,Africa,Sub-Saharan Africa,2330.24293947692,NA,2.169,NA
+2010,Mali,MLI,Africa,Sub-Saharan Africa,1997.68294373356,NA,2.176,NA
+2020,Malta,MLT,Europe,Southern Europe,49987.8929839855,31.4,10.872,1.3508128
+2015,Malta,MLT,Europe,Southern Europe,38379.0106589466,29.4,11.653,0.89891577
+2010,Malta,MLT,Europe,Southern Europe,28912.3673064801,29,13.229,0.94640845
+2020,Marshall Islands,MHL,Oceania,Micronesia,6136.97119702131,NA,NA,NA
+2015,Marshall Islands,MHL,Oceania,Micronesia,4125.1616927563,NA,NA,NA
+2010,Marshall Islands,MHL,Oceania,Micronesia,3473.40469896159,NA,NA,NA
+2020,Mauritania,MRT,Africa,Sub-Saharan Africa,5740.73959690129,NA,25.601,0.9999715
+2015,Mauritania,MRT,Africa,Sub-Saharan Africa,3977.61171275863,NA,18.509,NA
+2010,Mauritania,MRT,Africa,Sub-Saharan Africa,3177.84436561165,NA,15.331,NA
+2020,Mauritius,MUS,Africa,Sub-Saharan Africa,21326.224396378,NA,24.795,2.727507
+2015,Mauritius,MUS,Africa,Sub-Saharan Africa,20011.3333068005,NA,25.564,1.6250405
+2010,Mauritius,MUS,Africa,Sub-Saharan Africa,15913.9099205525,NA,23.524,2.572679
+2020,Mexico,MEX,Americas,Latin America and the Caribbean,19354.1248722314,44.6,8.053,29.001005
+2015,Mexico,MEX,Americas,Latin America and the Caribbean,19075.3384711297,NA,8.516,17.14843
+2010,Mexico,MEX,Americas,Latin America and the Caribbean,15908.8603191799,47.7,9.704,22.668648
+2020,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,3682.39299463483,NA,NA,NA
+2015,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,3346.80950600201,NA,NA,NA
+2010,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,3125.91252899737,NA,NA,NA
+2020,Moldova,MDA,Europe,Eastern Europe,13527.4413130967,25,4.015,3.0301738
+2015,Moldova,MDA,Europe,Eastern Europe,9197.61838204272,27,3.251,5.749636
+2010,Moldova,MDA,Europe,Eastern Europe,6323.06287905206,32.1,5.607,7.2962728
+2020,Monaco,MCO,Europe,Western Europe,NA,NA,NA,NA
+2015,Monaco,MCO,Europe,Western Europe,NA,NA,NA,NA
+2010,Monaco,MCO,Europe,Western Europe,NA,NA,NA,NA
+2020,Mongolia,MNG,Asia,Eastern Asia,13693.179806943,NA,15.947,6.2295156
+2015,Mongolia,MNG,Asia,Eastern Asia,10458.3027240524,NA,12.738,7.1895905
+2010,Mongolia,MNG,Asia,Eastern Asia,7531.62557442648,33.1,14.559,8.846177
+2020,Montenegro,MNE,Europe,Southern Europe,20827.4892978607,35.4,36.216,2.9608428
+2015,Montenegro,MNE,Europe,Southern Europe,16271.9861609659,39,37.722,2.7063816
+2010,Montenegro,MNE,Europe,Southern Europe,13633.6988304649,28.9,36.721,2.3730855
+2020,Morocco,MAR,Africa,Northern Africa,7704.84912109375,NA,26.88,2.9329595999999998
+2015,Morocco,MAR,Africa,Northern Africa,7799.09228515625,NA,20.825,1.2453916
+2010,Morocco,MAR,Africa,Northern Africa,6848.66748046875,NA,17.621,1.3891021
+2020,Mozambique,MOZ,Africa,Sub-Saharan Africa,1411.62040229911,NA,8.329,NA
+2015,Mozambique,MOZ,Africa,Sub-Saharan Africa,1317.88785956822,NA,7.097,NA
+2010,Mozambique,MOZ,Africa,Sub-Saharan Africa,1000.2411486648,NA,6.871,3.8044744
+2020,Myanmar,MMR,Asia,South-eastern Asia,5740.99045843992,NA,4.955,2.9632273
+2015,Myanmar,MMR,Asia,South-eastern Asia,4458.69054442659,38.1,1.588,2.548491
+2010,Myanmar,MMR,Asia,South-eastern Asia,3348.12889497049,NA,1.502,1.6338809
+2020,Namibia,NAM,Africa,Sub-Saharan Africa,9354.13136713077,NA,41.433,11.103938
+2015,Namibia,NAM,Africa,Sub-Saharan Africa,10465.8920558516,59.1,41.25,NA
+2010,Namibia,NAM,Africa,Sub-Saharan Africa,8538.19995395948,NA,44.529,14.8828535
+2020,Nauru,NRU,Oceania,Micronesia,10941.6636727977,NA,NA,NA
+2015,Nauru,NRU,Oceania,Micronesia,10020.3777452081,NA,NA,NA
+2010,Nauru,NRU,Oceania,Micronesia,5667.93968133576,NA,NA,NA
+2020,Nepal,NPL,Asia,Southern Asia,4235.57462326905,NA,24.041,2.1300414
+2015,Nepal,NPL,Asia,Southern Asia,2957.30559145504,NA,19.404,2.1492524
+2010,Nepal,NPL,Asia,Southern Asia,2139.22749384013,32.8,19.189,2.9734526
+2020,Netherlands,NLD,Europe,Western Europe,62596.6302027524,26,8.875,0.6860682
+2015,Netherlands,NLD,Europe,Western Europe,50970.348484391,28.2,11.103,0.6079229
+2010,Netherlands,NLD,Europe,Western Europe,45306.3078054895,27.8,10.77,0.85861295
+2020,New Caledonia,NCL,Oceania,Melanesia,NA,NA,46.146,NA
+2015,New Caledonia,NCL,Oceania,Melanesia,NA,NA,37.624,NA
+2010,New Caledonia,NCL,Oceania,Melanesia,NA,NA,36.027,NA
+2020,New Zealand,NZL,Oceania,Australia and New Zealand,45354.1561628727,NA,12.442,1.0256623
+2015,New Zealand,NZL,Oceania,Australia and New Zealand,37578.02761327,NA,13.872,1.0403056
+2010,New Zealand,NZL,Oceania,Australia and New Zealand,31292.9527570392,NA,17.421,0.98901266
+2020,Nicaragua,NIC,Americas,Latin America and the Caribbean,6274.09456741388,NA,11.467,NA
+2015,Nicaragua,NIC,Americas,Latin America and the Caribbean,5448.89226010317,NA,8.792,8.521133
+2010,Nicaragua,NIC,Americas,Latin America and the Caribbean,4042.22071276517,NA,12.062,13.682036
+2020,Niger,NER,Africa,Sub-Saharan Africa,1496.83350023022,NA,0.762,NA
+2015,Niger,NER,Africa,Sub-Saharan Africa,1172.19178758955,NA,0.703,NA
+2010,Niger,NER,Africa,Sub-Saharan Africa,1057.51100257385,NA,1.214,NA
+2020,Nigeria,NGA,Africa,Sub-Saharan Africa,5353.70554899388,NA,10.851,NA
+2015,Nigeria,NGA,Africa,Sub-Saharan Africa,5189.45397195461,35.9,8.751,NA
+2010,Nigeria,NGA,Africa,Sub-Saharan Africa,4474.60705075023,35.7,8.116,NA
+2020,North Macedonia,MKD,Europe,Southern Europe,19962.1686066623,NA,35.622,0.58760196
+2015,North Macedonia,MKD,Europe,Southern Europe,15038.1859543119,35.6,47.478,1.2623929
+2010,North Macedonia,MKD,Europe,Southern Europe,11993.5315145202,40.1,55.198,2.0960221
+2020,Northern Mariana Islands,MNP,Oceania,Micronesia,NA,NA,NA,NA
+2015,Northern Mariana Islands,MNP,Oceania,Micronesia,NA,NA,NA,NA
+2010,Northern Mariana Islands,MNP,Oceania,Micronesia,NA,NA,NA,NA
+2020,Norway,NOR,Europe,Northern Europe,67110.6045705502,28.4,11.188,0.576286
+2015,Norway,NOR,Europe,Northern Europe,60754.1816916377,27.5,9.779,0.46244815
+2010,Norway,NOR,Europe,Northern Europe,58219.6143463523,25.7,9.192,0.5931487
+2020,Oman,OMN,Asia,Western Asia,35163.3281781415,NA,13.51,0.30956355
+2015,Oman,OMN,Asia,Western Asia,36058.1666084788,NA,15.135,0.3823274
+2010,Oman,OMN,Asia,Western Asia,55667.4687778644,NA,13.93,1.7407413
+2020,Pakistan,PAK,Asia,Southern Asia,5048.0213062963,NA,10.837,3.5531652
+2015,Pakistan,PAK,Asia,Southern Asia,4480.26313460985,31.3,6.682,4.3655767
+2010,Pakistan,PAK,Asia,Southern Asia,3785.70113530595,28.8,1.287,6.620188
+2020,Palau,PLW,Oceania,Micronesia,17367.2676432665,NA,NA,NA
+2015,Palau,PLW,Oceania,Micronesia,17685.0596076711,NA,NA,16.88286
+2010,Palau,PLW,Oceania,Micronesia,13448.9332812883,NA,NA,NA
+2020,Panama,PAN,Americas,Latin America and the Caribbean,27017.0033688951,NA,33.033,11.646159
+2015,Panama,PAN,Americas,Latin America and the Caribbean,27245.2788533669,50.8,11.675,11.893836
+2010,Panama,PAN,Americas,Latin America and the Caribbean,15572.5787194419,51.6,13.43,12.677293
+2020,Papua New Guinea,PNG,Oceania,Melanesia,3899.57719236851,NA,4.541,NA
+2015,Papua New Guinea,PNG,Oceania,Melanesia,3669.73871592695,NA,4.242,NA
+2010,Papua New Guinea,PNG,Oceania,Melanesia,2911.8920318969,NA,3.574,9.34038
+2020,Paraguay,PRY,Americas,Latin America and the Caribbean,14308.8787738328,43.5,17.152,7.283752
+2015,Paraguay,PRY,Americas,Latin America and the Caribbean,12679.0574753215,47.6,10.922,10.017693
+2010,Paraguay,PRY,Americas,Latin America and the Caribbean,10893.3149199543,51,10.614,12.913972
+2020,Peru,PER,Americas,Latin America and the Caribbean,12563.3038060893,43.7,12.659,5.795013
+2015,Peru,PER,Americas,Latin America and the Caribbean,11600.3873992867,43.4,6.877,7.377469
+2010,Peru,PER,Americas,Latin America and the Caribbean,9713.35863309362,45.5,6.843,NA
+2020,Philippines,PHL,Asia,South-eastern Asia,8238.36802037457,NA,6.987,NA
+2015,Philippines,PHL,Asia,South-eastern Asia,6894.26702217935,44.6,8.509,NA
+2010,Philippines,PHL,Asia,South-eastern Asia,5489.23543457601,NA,9.736,8.973695
+2020,Poland,POL,Europe,Eastern Europe,37089.3004256812,28.5,10.831,0.6968639
+2015,Poland,POL,Europe,Eastern Europe,26995.3408713745,31.8,20.684,0.7787528
+2010,Poland,POL,Europe,Eastern Europe,20993.2495602577,33.2,23.576,1.007997
+2020,Portugal,PRT,Europe,Southern Europe,35966.712796561,34.7,22.494,0.7810602
+2015,Portugal,PRT,Europe,Southern Europe,29615.9560854108,35.5,31.947,0.9642953
+2010,Portugal,PRT,Europe,Southern Europe,27295.1035561802,35.8,22.753,1.1721711
+2020,Puerto Rico (US),PRI,Americas,Latin America and the Caribbean,36858.6085217908,NA,19.578,NA
+2015,Puerto Rico (US),PRI,Americas,Latin America and the Caribbean,32323.5456459985,NA,26.508,NA
+2010,Puerto Rico (US),PRI,Americas,Latin America and the Caribbean,30908.7986630853,NA,34.978,NA
+2020,Qatar,QAT,Asia,Western Asia,82149.3573751713,NA,0.48,0.42805547
+2015,Qatar,QAT,Asia,Western Asia,102545.939634633,NA,0.569,0.24718513
+2010,Qatar,QAT,Asia,Western Asia,151646.217415364,NA,1.296,0.23402357
+2020,Romania,ROU,Europe,Eastern Europe,34386.1207230181,34.6,17.586,1.4490161
+2015,Romania,ROU,Europe,Eastern Europe,21630.3143728731,35.9,22.038,1.706002
+2010,Romania,ROU,Europe,Eastern Europe,17356.6588564889,35.5,22.193,1.3018428
+2020,Russian Federation,RUS,Europe,Eastern Europe,31490.8046875,33.7,17.001,NA
+2015,Russian Federation,RUS,Europe,Eastern Europe,23994.013671875,36.5,16.403,NA
+2010,Russian Federation,RUS,Europe,Eastern Europe,20490.126953125,39.5,17.19,NA
+2020,Rwanda,RWA,Africa,Sub-Saharan Africa,2284.89889795328,NA,15.947,3.6124742
+2015,Rwanda,RWA,Africa,Sub-Saharan Africa,1780.74171636863,NA,16.606,2.5171773
+2010,Rwanda,RWA,Africa,Sub-Saharan Africa,1314.13559494324,47.2,16.134,2.820436
+2020,Samoa,WSM,Oceania,Polynesia,6450.76538373229,NA,17.747,NA
+2015,Samoa,WSM,Oceania,Polynesia,5681.77812768843,NA,18.061,NA
+2010,Samoa,WSM,Oceania,Polynesia,5229.04191199124,NA,14.624,8.289189
+2020,San Marino,SMR,Europe,Southern Europe,55206.5812324405,NA,NA,NA
+2015,San Marino,SMR,Europe,Southern Europe,52247.2078276415,NA,NA,NA
+2010,San Marino,SMR,Europe,Southern Europe,58926.1403701298,NA,NA,0
+2020,Sao Tome and Principe,STP,Africa,Sub-Saharan Africa,5144.53560286014,NA,9.446,NA
+2015,Sao Tome and Principe,STP,Africa,Sub-Saharan Africa,3171.50905832741,NA,12.8,NA
+2010,Sao Tome and Principe,STP,Africa,Sub-Saharan Africa,2858.56899092769,30.8,20.832,3.3002937
+2020,Saudi Arabia,SAU,Asia,Western Asia,47518.4877485153,NA,29.627,NA
+2015,Saudi Arabia,SAU,Asia,Western Asia,53930.8273872622,NA,28.156,NA
+2010,Saudi Arabia,SAU,Asia,Western Asia,58828.7075224838,NA,24.762,NA
+2020,Senegal,SEN,Africa,Sub-Saharan Africa,3752.91947490817,NA,4.871,NA
+2015,Senegal,SEN,Africa,Sub-Saharan Africa,2994.28032714875,NA,8.045,NA
+2010,Senegal,SEN,Africa,Sub-Saharan Africa,2662.50486626479,NA,2.942,NA
+2020,Serbia,SRB,Europe,Southern Europe,21013.0399401927,35,26.608,1.2160146
+2015,Serbia,SRB,Europe,Southern Europe,15550.4859018426,40.5,43.23,1.3932908
+2010,Serbia,SRB,Europe,Southern Europe,13321.5066928033,29,46.439,1.7847812
+2020,Seychelles,SYC,Africa,Sub-Saharan Africa,31055.9442055039,NA,NA,7.4818563
+2015,Seychelles,SYC,Africa,Sub-Saharan Africa,25435.2289894362,NA,NA,6.528054
+2010,Seychelles,SYC,Africa,Sub-Saharan Africa,18981.6586503443,NA,NA,9.476577
+2020,Sierra Leone,SLE,Africa,Sub-Saharan Africa,2721.34184517493,NA,4.1,2.2243123
+2015,Sierra Leone,SLE,Africa,Sub-Saharan Africa,2560.04985807593,NA,8.303,1.7619505
+2010,Sierra Leone,SLE,Africa,Sub-Saharan Africa,1900.38515206703,NA,7.916,2.6194358
+2020,Singapore,SGP,Asia,South-eastern Asia,101518.31798444,NA,10.557,0.17793117
+2015,Singapore,SGP,Asia,South-eastern Asia,87156.187383315,NA,8.894,0.2533781
+2010,Singapore,SGP,Asia,South-eastern Asia,75400.5557984177,NA,9.413,0.37423572
+2020,Sint Maarten (Dutch part),SXM,Americas,Latin America and the Caribbean,38901.4867603712,NA,NA,NA
+2015,Sint Maarten (Dutch part),SXM,Americas,Latin America and the Caribbean,44587.5911500766,NA,NA,NA
+2010,Sint Maarten (Dutch part),SXM,Americas,Latin America and the Caribbean,37736.4056799196,NA,NA,NA
+2020,Slovak Republic,SVK,Europe,Eastern Europe,35327.9439165588,24.2,19.438,NA
+2015,Slovak Republic,SVK,Europe,Eastern Europe,30156.0270992722,26.5,26.571,NA
+2010,Slovak Republic,SVK,Europe,Eastern Europe,25384.4911366354,27.3,33.749,NA
+2020,Slovenia,SVN,Europe,Southern Europe,41767.2579899957,24,14.179,0.5232067
+2015,Slovenia,SVN,Europe,Southern Europe,31344.6289743058,25.4,16.299,0.97089875
+2010,Slovenia,SVN,Europe,Southern Europe,27582.4977417186,24.9,14.7,0.73363554
+2020,Solomon Islands,SLB,Oceania,Melanesia,2405.30256166037,NA,1.499,NA
+2015,Solomon Islands,SLB,Oceania,Melanesia,2353.78728249487,NA,1.298,NA
+2010,Solomon Islands,SLB,Oceania,Melanesia,2182.21600810863,NA,2.924,NA
+2020,"Somalia, Fed. Rep.",SOM,Africa,Sub-Saharan Africa,1454.33348080341,NA,35.978,NA
+2015,"Somalia, Fed. Rep.",SOM,Africa,Sub-Saharan Africa,1341.38999678728,NA,33.508,NA
+2010,"Somalia, Fed. Rep.",SOM,Africa,Sub-Saharan Africa,815.131435995058,NA,34.088,NA
+2020,South Africa,ZAF,Africa,Sub-Saharan Africa,12671.0862436851,NA,58.588,32.977566
+2015,South Africa,ZAF,Africa,Sub-Saharan Africa,13397.5234813346,NA,49.447,32.919315
+2010,South Africa,ZAF,Africa,Sub-Saharan Africa,12637.2912226018,63.4,50.064,30.362572
+2020,South Sudan,SSD,Africa,Sub-Saharan Africa,NA,NA,21.984,NA
+2015,South Sudan,SSD,Africa,Sub-Saharan Africa,1154.88686304107,NA,19.447,NA
+2010,South Sudan,SSD,Africa,Sub-Saharan Africa,2948.0500149385,NA,19.442,NA
+2020,Spain,ESP,Europe,Southern Europe,39327.8479269599,34.9,38.312,0.6942189
+2015,Spain,ESP,Europe,Southern Europe,35238.0691376424,36.2,48.353,0.6469069
+2010,Spain,ESP,Europe,Southern Europe,31808.2179879539,35.2,41.453,0.8560973
+2020,Sri Lanka,LKA,Asia,Southern Asia,12940.9043295749,NA,25.449,NA
+2015,Sri Lanka,LKA,Asia,Southern Asia,12227.1714849513,NA,19.232,2.2411442
+2010,Sri Lanka,LKA,Asia,Southern Asia,8233.6266381136,NA,18.684,3.654374
+2020,St. Kitts and Nevis,KNA,Americas,Latin America and the Caribbean,27326.036057423,NA,NA,NA
+2015,St. Kitts and Nevis,KNA,Americas,Latin America and the Caribbean,26877.4665031101,NA,NA,NA
+2010,St. Kitts and Nevis,KNA,Americas,Latin America and the Caribbean,23691.4477936151,NA,NA,NA
+2020,St. Lucia,LCA,Americas,Latin America and the Caribbean,14912.159584235,NA,51.641,NA
+2015,St. Lucia,LCA,Americas,Latin America and the Caribbean,14353.2224845845,43.7,47.011,NA
+2010,St. Lucia,LCA,Americas,Latin America and the Caribbean,12717.7865966902,NA,35.313,NA
+2020,St. Martin (French part),MAF,Americas,Latin America and the Caribbean,NA,NA,NA,NA
+2015,St. Martin (French part),MAF,Americas,Latin America and the Caribbean,NA,NA,NA,NA
+2010,St. Martin (French part),MAF,Americas,Latin America and the Caribbean,NA,NA,NA,NA
+2020,St. Vincent and the Grenadines,VCT,Americas,Latin America and the Caribbean,15336.5987771764,NA,47.275,NA
+2015,St. Vincent and the Grenadines,VCT,Americas,Latin America and the Caribbean,12378.842727428,NA,41.41,NA
+2010,St. Vincent and the Grenadines,VCT,Americas,Latin America and the Caribbean,10561.308030596,NA,41.819,NA
+2020,Sudan,SDN,Africa,Northern Africa,3348.57836914063,NA,19.904,NA
+2015,Sudan,SDN,Africa,Northern Africa,4217.01025390625,NA,25.233,NA
+2010,Sudan,SDN,Africa,Northern Africa,3805.62744140625,NA,26.387,NA
+2020,Suriname,SUR,Americas,Latin America and the Caribbean,16946.8942361914,NA,28.397,8.982283
+2015,Suriname,SUR,Americas,Latin America and the Caribbean,16543.5743051372,NA,13.027,5.8456707
+2010,Suriname,SUR,Americas,Latin America and the Caribbean,13039.4491198099,NA,13.452,NA
+2020,Sweden,SWE,Europe,Northern Europe,57489.2657196219,28.9,23.895,1.197641
+2015,Sweden,SWE,Europe,Northern Europe,48785.1551864585,29.2,20.365,1.1429176
+2010,Sweden,SWE,Europe,Northern Europe,41956.1290051562,27.7,24.761,0.97033215
+2020,Switzerland,CHE,Europe,Western Europe,72997.8239503282,33.7,8.603,0.5439449
+2015,Switzerland,CHE,Europe,Western Europe,65282.5841931923,32.3,8.815,0.6880789
+2010,Switzerland,CHE,Europe,Western Europe,54432.332994981,32.6,8.216,0.66447276
+2020,Syrian Arab Republic,SYR,Asia,Western Asia,3737.65751831376,NA,36.166,NA
+2015,Syrian Arab Republic,SYR,Asia,Western Asia,NA,NA,34.715,NA
+2010,Syrian Arab Republic,SYR,Asia,Western Asia,NA,NA,20.491,NA
+2020,Tajikistan,TJK,Asia,Central Asia,3653.95976759112,NA,29.031,0.8923708
+2015,Tajikistan,TJK,Asia,Central Asia,2975.47097476092,34,25.212,NA
+2010,Tajikistan,TJK,Asia,Central Asia,2291.07823631732,NA,24.724,2.3653512
+2020,Tanzania,TZA,Africa,Sub-Saharan Africa,3290.60986328125,NA,3.805,3.749213
+2015,Tanzania,TZA,Africa,Sub-Saharan Africa,2317.27978515625,NA,3.602,7.2009435
+2010,Tanzania,TZA,Africa,Sub-Saharan Africa,2069.40185546875,NA,5.851,8.686621
+2020,Thailand,THA,Asia,South-eastern Asia,19163.7415152349,35,5.199,NA
+2015,Thailand,THA,Asia,South-eastern Asia,15791.1714762207,36,3.094,NA
+2010,Thailand,THA,Asia,South-eastern Asia,12932.2633444457,39.4,2.598,5.328127
+2020,Timor-Leste,TLS,Asia,South-eastern Asia,6132.08299806495,NA,6.743,NA
+2015,Timor-Leste,TLS,Asia,South-eastern Asia,3107.57190164098,NA,8.563,NA
+2010,Timor-Leste,TLS,Asia,South-eastern Asia,1955.32969499557,NA,9.331,NA
+2020,Togo,TGO,Africa,Sub-Saharan Africa,2356.75859666213,NA,3.727,NA
+2015,Togo,TGO,Africa,Sub-Saharan Africa,1879.66940004825,43,4.315,NA
+2010,Togo,TGO,Africa,Sub-Saharan Africa,1537.0546089113,NA,3.963,NA
+2020,Tonga,TON,Oceania,Polynesia,6689.85928964051,NA,7.937,NA
+2015,Tonga,TON,Oceania,Polynesia,5471.79686971112,33.5,5.84,NA
+2010,Tonga,TON,Oceania,Polynesia,4465.46050009263,NA,4.218,0.93110305
+2020,Trinidad and Tobago,TTO,Americas,Latin America and the Caribbean,26862.9417710355,NA,11.81,26.940828
+2015,Trinidad and Tobago,TTO,Americas,Latin America and the Caribbean,29825.4643214665,NA,5.869,29.387306
+2010,Trinidad and Tobago,TTO,Americas,Latin America and the Caribbean,30778.3127370297,NA,9.85,34.11089
+2020,Tunisia,TUN,Africa,Northern Africa,11918.066205483,NA,41.231,4.69348
+2015,Tunisia,TUN,Africa,Northern Africa,10782.5438382441,32.8,34.967,NA
+2010,Tunisia,TUN,Africa,Northern Africa,10555.0887033221,38.5,29.573,2.656516
+2020,Turkiye,TUR,Asia,Western Asia,28680.2006288764,43,24.919,NA
+2015,Turkiye,TUR,Asia,Western Asia,25862.6846048907,42.9,18.299,NA
+2010,Turkiye,TUR,Asia,Western Asia,17343.6771298998,38.8,21.578,NA
+2020,Turkmenistan,TKM,Asia,Central Asia,15090.9394971778,NA,10.038,NA
+2015,Turkmenistan,TKM,Asia,Central Asia,12714.8137240363,NA,8.833,1.013551
+2010,Turkmenistan,TKM,Asia,Central Asia,8971.61628736812,NA,8.405,1.8870108
+2020,Turks and Caicos Islands,TCA,Americas,Latin America and the Caribbean,19530.0254075613,NA,NA,51.818726
+2015,Turks and Caicos Islands,TCA,Americas,Latin America and the Caribbean,24012.8725763975,NA,NA,NA
+2010,Turks and Caicos Islands,TCA,Americas,Latin America and the Caribbean,22316.4440292076,NA,NA,NA
+2020,Tuvalu,TUV,Oceania,Polynesia,5122.19827984698,NA,NA,NA
+2015,Tuvalu,TUV,Oceania,Polynesia,3775.7556591637,NA,NA,NA
+2010,Tuvalu,TUV,Oceania,Polynesia,2945.12892457303,39.1,NA,9.421518
+2020,Uganda,UGA,Africa,Sub-Saharan Africa,2532.21950102069,NA,5.721,10.032131
+2015,Uganda,UGA,Africa,Sub-Saharan Africa,2189.96485919003,NA,3.877,NA
+2010,Uganda,UGA,Africa,Sub-Saharan Africa,2091.55963145331,NA,5.345,9.7558565
+2020,Ukraine,UKR,Europe,Eastern Europe,15541.02734375,25.6,19.355,3.8003569
+2015,Ukraine,UKR,Europe,Eastern Europe,9921.833984375,25.5,22.611,NA
+2010,Ukraine,UKR,Europe,Eastern Europe,8453.2998046875,24.8,17.709,4.279318
+2020,United Arab Emirates,ARE,Asia,Western Asia,65352.8344182277,NA,13.482,0.68793815
+2015,United Arab Emirates,ARE,Asia,Western Asia,71720.3084512543,NA,5.447,0.6916719
+2010,United Arab Emirates,ARE,Asia,Western Asia,83670.9093739164,NA,7.191,0.9656457
+2020,United Kingdom,GBR,Europe,Northern Europe,48230.0477027461,32.6,13.371,0.9457794
+2015,United Kingdom,GBR,Europe,Northern Europe,42526.7003586335,33.3,15.046,0.9482717
+2010,United Kingdom,GBR,Europe,Northern Europe,36487.6718531875,33.7,20.206,1.1998765
+2020,United States,USA,Americas,Northern America,64401.5074354209,40,14.891,6.3546557
+2015,United States,USA,Americas,Northern America,56849.4697923159,41.5,11.634,4.8701963
+2010,United States,USA,Americas,Northern America,48642.6312088213,40.2,18.361,4.7328067
+2020,Uruguay,URY,Americas,Latin America and the Caribbean,25725.258216942,40.2,34.209,10.032457
+2015,Uruguay,URY,Americas,Latin America and the Caribbean,22168.6114189676,40.1,22.875,8.699481
+2010,Uruguay,URY,Americas,Latin America and the Caribbean,17872.5369682924,44.5,20.707,6.177341
+2020,Uzbekistan,UZB,Asia,Central Asia,8451.72505108114,NA,12.838,1.3368517
+2015,Uzbekistan,UZB,Asia,Central Asia,6799.57332842183,NA,11.564,1.6455635
+2010,Uzbekistan,UZB,Asia,Central Asia,5504.8563793137,NA,11.644,NA
+2020,Vanuatu,VUT,Oceania,Melanesia,3117.64425292038,NA,9.696,0.3346065
+2015,Vanuatu,VUT,Oceania,Melanesia,2965.84143257378,NA,11.202,NA
+2010,Vanuatu,VUT,Oceania,Melanesia,2733.45922588718,37.4,9.407,NA
+2020,"Venezuela, RB",VEN,Americas,Latin America and the Caribbean,NA,NA,13.628,NA
+2015,"Venezuela, RB",VEN,Americas,Latin America and the Caribbean,NA,NA,13.331,NA
+2010,"Venezuela, RB",VEN,Americas,Latin America and the Caribbean,16527.7394080967,NA,14.178,NA
+2020,Viet Nam,VNM,Asia,South-eastern Asia,11609.3177276423,36.8,6.546,NA
+2015,Viet Nam,VNM,Asia,South-eastern Asia,7671.5819778084,NA,6.267,NA
+2010,Viet Nam,VNM,Asia,South-eastern Asia,5389.21956993674,39.3,3.432,NA
+2020,Virgin Islands (U.S.),VIR,Americas,Latin America and the Caribbean,41749.0800364553,NA,35.848,NA
+2015,Virgin Islands (U.S.),VIR,Americas,Latin America and the Caribbean,32573.7166812174,NA,26.802,NA
+2010,Virgin Islands (U.S.),VIR,Americas,Latin America and the Caribbean,41607.5668567026,NA,24.195,NA
+2020,West Bank and Gaza,PSE,Asia,Western Asia,5956.28620064819,NA,42.053,NA
+2015,West Bank and Gaza,PSE,Asia,Western Asia,5769.98236633203,NA,37.215,NA
+2010,West Bank and Gaza,PSE,Asia,Western Asia,4120.86066344952,35.3,36.178,NA
+2020,"Yemen, Rep.",YEM,Asia,Western Asia,NA,NA,34.625,NA
+2015,"Yemen, Rep.",YEM,Asia,Western Asia,NA,NA,32.695,NA
+2010,"Yemen, Rep.",YEM,Asia,Western Asia,3603.03505648202,NA,22.04,NA
+2020,Zambia,ZMB,Africa,Sub-Saharan Africa,3157.30009311643,NA,11.042,NA
+2015,Zambia,ZMB,Africa,Sub-Saharan Africa,3337.47306887696,55.8,12.344,5.2015085
+2010,Zambia,ZMB,Africa,Sub-Saharan Africa,3097.66400499243,52,29.15,5.82861
+2020,Zimbabwe,ZWE,Africa,Sub-Saharan Africa,3510.67604016744,NA,14.258,5.0235434
+2015,Zimbabwe,ZWE,Africa,Sub-Saharan Africa,2646.645807311,NA,7.991,NA
+2010,Zimbabwe,ZWE,Africa,Sub-Saharan Africa,1740.94575434279,NA,9.065,5.3232317
